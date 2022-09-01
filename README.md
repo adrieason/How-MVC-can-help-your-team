@@ -1,5 +1,4 @@
 # How-MVC-can-help-your-team
-# My Awesome Project
 As a former educator, I have a passion for teaching others. I created this lecture on MVC in order to share information on an important pattern to set up your projects. The three main components of MVC are MODEL, VIEW, CONTROLLER. 
 
 ## Lessons Learned:
